@@ -1,6 +1,6 @@
 # Mini_Projects
 
-This repository contains a collection of **HTML, CSS, and JavaScript** mini projects.  
+This repository contains a collection of **HTMLand CSS** mini projects.  
 Each project is organized into its own folder with its own `index.html` file, so you can view them directly on GitHub Pages.
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
