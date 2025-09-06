@@ -18,7 +18,7 @@ Each project is organized into its own folder with its own `index.html` file, so
 
 ## Tech Stack
 - **HTML5** – Structure
-- **CSS3** – Styling
+- **CSS6** – Styling
 
 ## About
 This repo is a personal collection of mini projects I have created while learning and practicing web development.  
