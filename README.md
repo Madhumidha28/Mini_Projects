@@ -4,7 +4,7 @@ This repository contains a collection of **HTMLand CSS** mini projects.
 Each project is organized into its own folder with its own `index.html` file, so you can view them directly on GitHub Pages.
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
+![CSS6](https://img.shields.io/badge/CSS6-blue?logo=css6&logoColor=white&style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ## Projects List
