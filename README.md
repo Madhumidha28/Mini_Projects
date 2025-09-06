@@ -10,10 +10,10 @@ Each project is organized into its own folder with its own `index.html` file, so
 ## Projects List
 
 ###  HTML & CSS Projects
-| Project Name | Folder Path | Live Link |
-|--------------|-------------|-----------|
-| Student Card | `CSS/p1-student-card` | [🔗 View](https://<your-username>.github.io/MINIPROJECTS/CSS/p1-student-card/) |
-| Profile Link Card | `CSS/p2-profile-link-card` | [🔗 View](https://<your-username>.github.io/MINIPROJECTS/CSS/p2-profile-link-card/) |
+| Project Name |  Live Link |
+|--------------|-----------|
+| Student Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P1-Student%20Card/) |
+| Profile Link Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P2_Links-page/) |
 
 
 ## Tech Stack
