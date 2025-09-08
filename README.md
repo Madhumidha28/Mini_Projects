@@ -14,6 +14,7 @@ Each project is organized into its own folder with its own `index.html` file, so
 |--------------|-----------|
 | Student Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P1-Student%20Card/) |
 | Profile Link Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P2_Links-page/) |
+| Blog Post Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P3_Blog_Post/) |
 
 
 ## Tech Stack
