@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .links-card {
@@ -94,5 +94,6 @@ footer {
     padding: 30px 20px;
   }
 }*/
+
 
 
