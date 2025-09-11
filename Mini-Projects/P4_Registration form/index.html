@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration form</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="register-container">
+      <h1>Register</h1>
+      <form id="register-fom">
+        <label for="username-input">Username:</label>
+        <input
+          type="text"
+          id="username-input"
+          name="username"
+          required
+          autofocus
+          minlength="5"
+          maxlength="8"
+          placeholder="Enter your name"
+          pattern="[a-zA-Z]{5}"
+        />
+
+        <label for="password-input">Password:</label>
+        <input
+          type="password"
+          id="password-input"
+          name="password"
+          placeholder="Enter your password"
+        />
+
+        <label for="password-confirm-input">Confirm password:</label>
+        <input
+          type="password"
+          id="password-confirm-input"
+          name="confirm_password"
+          placeholder="Confirm password"
+        />
+        <button class="submit-button">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
