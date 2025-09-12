@@ -29,7 +29,7 @@ It will be continuously updated with more projects covering:
 - HTML basics
 - CSS layouts, animations, responsive design
 
-📌 **Note:** All projects are **responsive-ready** and tested on desktop browsers.  
+ **Note:** All projects are **responsive-ready** and tested on desktop browsers.  
 Some features may not work when opened directly from file — use a local server or GitHub Pages.
 
 ---
