@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.article-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+h1,
+blockquote {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 75px;
+  line-height: 1;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+blockquote {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  padding: 16px;
+  margin: 24px 0;
+  background: #f5f5f5;
+}
+
+blockquote::before {
+  content: open-quote;
+}
+
+blockquote::after {
+  content: close-quote;
+}
+
+article {
+  display: grid;
+}
+
+article > *:not(img) {
+  padding: 0 32px;
+}
+
+.lead {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.flow > * + * {
+  margin-top: 16px;
+}
+
+.article-body {
+  columns: 2 240px;
+  gap: 40px;
+}
+
+.article-body > p:first-child::first-letter {
+  font-size: 64px;
+  float: left;
+  line-height: 1;
+  margin: 4px 8px 0 0;
+}
+
+.article-body > p:first-child::first-line {
+  font-weight: 600;
+}
+
+@media (min-width: 800px) {
+  article {
+    grid-template-columns: min(40%, 640px) 1fr;
+  }
+
+  article > img {
+    grid-row: 1 / 4;
+    height: 100%;
+    object-fit: cover;
+  }
+  article > *:not(img) {
+    grid-column: 2 / -1;
+  }
+}
