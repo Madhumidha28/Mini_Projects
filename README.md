@@ -16,6 +16,7 @@ Each project is organized into its own folder with its own `index.html` file, so
 | Profile Link Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P2_Links-page/) |
 | Blog Post Card | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P3_Blog_Post/) |
 | Registration form | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P4_Registration%20form/) |
+| Magazine Layout | [🔗 View](https://madhumidha28.github.io/Mini_Projects/Mini-Projects/P6_Magazine%20layout/) |
 
 
 ## Tech Stack
