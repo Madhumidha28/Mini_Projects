@@ -64,17 +64,17 @@ body {
   height: 240px;
   grid-column: 3 / span 2;
   grid-row: 4 / span 2;
-  background-image: url(assets/cards.webp);
+  font-size: 40px;
+  background-color: rgb(35, 47, 62);
+  -webkit-text-stroke: 1px white;
+  color: white;
 }
 
 .item:nth-child(8) {
   height: 300px;
   grid-column: 1 / span 2;
   grid-row: 5 / span 2;
-  background-color: rgb(35, 47, 62);
-  -webkit-text-stroke: 1px white;
-  color: white;
-  font-size: 45px;
+  background-image: url(assets/cards.webp);
 }
 
 .item:nth-child(9) {
@@ -110,3 +110,4 @@ body {
     height: auto;
   }
 }
+
